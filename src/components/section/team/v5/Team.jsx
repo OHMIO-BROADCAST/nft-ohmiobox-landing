@@ -28,7 +28,7 @@ const Team = () => {
                   <img src={avatar1} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Berneice Tran <span>Founder</span></h6>
+                  <h6>Ricardo Jimenez <span>Founder</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -42,7 +42,7 @@ const Team = () => {
                   <img src={avatar3} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Moneo Doa <span>Ui Designer</span></h6>
+                  <h6>Hugo Arenas <span>3D Architect</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -56,7 +56,7 @@ const Team = () => {
                   <img src={avatar2} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Nathan Bean <span>Co-Founder</span></h6>
+                  <h6>Juan Pablo <span>Co-Founder</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -73,7 +73,7 @@ const Team = () => {
                   <img src={avatar4} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Natala Elon <span>SEO Engineer</span></h6>
+                  <h6>Sandra Lizette<span>Electronic Engineer</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -86,7 +86,7 @@ const Team = () => {
                   <img src={avatar5} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Lynne Wilkes <span>Artist</span></h6>
+                  <h6>Juan Diego<span>NFT Strategist</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -99,7 +99,7 @@ const Team = () => {
                   <img src={avatar6} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Sony Jina <span>Blockchain Dev</span></h6>
+                  <h6>Mauricio Henao <span>Blockchain Dev</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>
@@ -116,7 +116,7 @@ const Team = () => {
                   <img src={avatar7} alt="avatar" />
                 </div>
                 <div className="member_details">
-                  <h6>Robert Neo <span>UX Designer</span></h6>
+                  <h6>Raul Gonzalez <span>UI/UX Designer</span></h6>
                   <div className="social_profiles">
                     <a href="#"> <FaTwitter /> </a>
                     <a href="#"> <FaInstagram /> </a>

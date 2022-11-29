@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route,Navigate } from "react-router-dom";
 import HomeV1 from "../pages/homeV1";
 import HomeV2 from "../pages/homeV2";
 import HomeV3 from "../pages/homeV3";
@@ -18,11 +18,13 @@ import FAQPage from "../pages/faq";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomeV5 />} exact />
+      {/* <Route path="/" element={<Navigate to={'/home'} />} exact /> */}
       <Route path="/home-two" element={<HomeV2 />} />
       <Route path="/home-three" element={<HomeV3 />} />
       <Route path="/home-four" element={<HomeV4 />} />
-      <Route path="/home-five" element={<HomeV5 />} />
+
+      <Route path="/" element={<HomeV5 />} />
+
       <Route path="/blogs" element={<Blogs />} />
       <Route path="/post" element={<BlogDetails />} />
       <Route path="/coming-soon" element={<ComingSoon />} />

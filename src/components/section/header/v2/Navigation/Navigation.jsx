@@ -38,7 +38,7 @@ const Navigation = ({ mobileMenuHandle }) => {
 
           <div className="close_btn">
             <Button sm variant="outline" onClick={() => mobileMenuHandle()}>
-              <img src={IconClose} alt="icon" />
+              <img src={IconClose} alt="icon" style={{width:'52px', height:'auto'}} />
             </Button>
           </div>
         </div>
@@ -46,7 +46,7 @@ const Navigation = ({ mobileMenuHandle }) => {
           <div className="col-md-6">
             <div className="navigation_left">
               <div className="menu_widgets">
-                <h3>HOME PAGES</h3>
+                <h3>MAIN COMPONENTS</h3>
                 <div className="home_pages">
                   <a href="/">
                     {" "}
@@ -77,7 +77,7 @@ const Navigation = ({ mobileMenuHandle }) => {
           <div className="col-md-6">
             <div className="navigation_right">
               <div className="menu_widgets">
-                <h3>SUB PAGES</h3>
+                <h3>WELCOME TO OHMIO UNIVERSE</h3>
 
                 <div className="pages_list">
                   <a href="/mint-1"> Minting Page 1 </a>
@@ -93,7 +93,7 @@ const Navigation = ({ mobileMenuHandle }) => {
                 </div>
               </div>
               <div className="menu_widgets">
-                <h3>JOIN WITH US</h3>
+                <h3>JOIN THE FUTURE</h3>
 
                 <div className="social_links">
                   <a href="#">
@@ -140,8 +140,8 @@ const Navigation = ({ mobileMenuHandle }) => {
                   {" "}
                   <img src={mailIcon} alt="icon" /> MAIL US
                 </h3>
-                <p>Info: ask@domain.com</p>
-                <p>Support: wearehere@domain.com</p>
+                <p>Partnership: radioadvice.us</p>
+                <p>Support: support@ohmiobroadcast.io</p>
               </div>
             </div>
           </div>
