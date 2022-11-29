@@ -33,7 +33,7 @@ const Navigation = ({ mobileMenuHandle }) => {
     <NavigationWrapper>
       <div className="container">
         <div className="navigation_header">
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo" style={{width:'52px', height:'auto'}} />
           <h2 className="menu_title">Menu</h2>
 
           <div className="close_btn">

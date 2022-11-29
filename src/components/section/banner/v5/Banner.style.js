@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import sectionBgImage from "../../../../assets/images/bg/v5-baner1.jpg";
+import sectionBgImage from "../../../../assets/images/bg/v5-baner4.jpg";
 
 const particle1 = keyframes`
 0%,

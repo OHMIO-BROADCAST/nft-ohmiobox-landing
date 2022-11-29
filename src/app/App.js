@@ -18,7 +18,7 @@ import FAQPage from "../pages/faq";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomeV1 />} exact />
+      <Route path="/" element={<HomeV5 />} exact />
       <Route path="/home-two" element={<HomeV2 />} />
       <Route path="/home-three" element={<HomeV3 />} />
       <Route path="/home-four" element={<HomeV4 />} />

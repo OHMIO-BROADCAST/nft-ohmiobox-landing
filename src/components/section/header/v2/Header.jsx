@@ -37,7 +37,7 @@ const Header = () => {
         <div className="header_wrapper">
           <div className="header_left">
             <div className="logo">
-              <img src={logo} alt="logo" />
+              <img src={logo} alt="logo" style={{height:"52px", width:'auto'}} />
             </div>
           </div>
           <div className="header_right">

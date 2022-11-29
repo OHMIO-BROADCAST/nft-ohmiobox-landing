@@ -40,7 +40,7 @@ const Banner = () => {
           <div className="col-lg-6 order-1 order-lg-0">
             <div className="bithu_v5_baner_left">
               <h2>
-                BUILD & SELL YOUR EVERY PIXEL <img src={heartIcon} alt="icon" />
+                BUILD & SELL YOUR OHMIO BOX <img src={heartIcon} alt="icon" />
               </h2>
               <h3>
                 <span className="count">

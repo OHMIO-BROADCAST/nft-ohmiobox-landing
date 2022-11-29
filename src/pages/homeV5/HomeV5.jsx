@@ -20,7 +20,7 @@ const HomeV5 = () => {
   const { visibility, walletModalvisibility } = useModal();
   const menuData = [
     "01. Home",
-    "02. About",
+    "02. About OHMIO",
     "03. Roadmap",
     "04. Team",
     "05. FAQ",
