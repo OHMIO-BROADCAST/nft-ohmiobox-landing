@@ -23,7 +23,7 @@ function App() {
       <Route path="/home-three" element={<HomeV3 />} />
       <Route path="/home-four" element={<HomeV4 />} />
 
-      <Route path="/" element={<HomeV5 />} />
+      <Route path="/" element={<HomeV1 />} />
 
       <Route path="/blogs" element={<Blogs />} />
       <Route path="/post" element={<BlogDetails />} />
@@ -33,7 +33,7 @@ function App() {
       <Route path="/roadmap" element={<RoadmapPage />} />
       <Route path="/collections" element={<Collections />} />
       <Route path="/contact" element={<ContactPage />} />
-      <Route path="/mint-1" element={<MintPageOne />} />
+      <Route path="/mint" element={<MintPageOne />} />
       <Route path="/mint-2" element={<MintPageTwo />} />
     </Routes>
   );

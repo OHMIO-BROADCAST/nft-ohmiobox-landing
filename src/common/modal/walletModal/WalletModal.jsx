@@ -46,13 +46,13 @@ const WalletModal = () => {
                     <FiChevronRight />
                   </span>
                 </a>
-                <a href="# ">
+               {/*  <a href="# ">
                   <img src={formatic} alt="Coinbase" />
                   Coinbase
                   <span>
                     <FiChevronRight />
                   </span>
-                </a>
+                </a> */}
                 <a href="# ">
                   <img src={trustWalletIcon} alt="Trust" />
                   Trust Wallet

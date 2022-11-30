@@ -1,9 +1,9 @@
 import { Slider, SliderItem } from "../../../common/slider/Slider";
 import PopupStyleWrapper from "./Popup.style";
 
-import coinIcon1 from "../../../assets/images/icon/pop-up-img-1.png";
-import coinIcon2 from "../../../assets/images/icon/pop-up-img-2.png";
-import coinIcon3 from "../../../assets/images/icon/pop-up-img-3.png";
+import coinIcon1 from "../../../assets/images/moneda.png";
+import coinIcon2 from "../../../assets/images/moneda.png";
+import coinIcon3 from "../../../assets/images/moneda.png";
 import closeIcon from "../../../assets/images/icon/popup-close-icon.svg";
 
 const Popup = ({ popupHandle }) => {
@@ -42,9 +42,9 @@ const Popup = ({ popupHandle }) => {
             ))}
           </Slider>
 
-          <div className="popup_content">
-            <h5>Looking For FUll Minting Functional Script ?</h5>
-            <h6>React JS, Smart Contract, Solidity & Metamask Working</h6>
+          <div className="popup_content" >
+            <h5>Thank you for Visiting our amazing universe</h5>
+            <h6 >OHMIO Box is the first tool in the OHMIO Ecosystem. Unlock all with one NFT.</h6>
           </div>
         </a>
 

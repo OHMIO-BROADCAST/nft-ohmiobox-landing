@@ -14,7 +14,7 @@ const data = [
             },
             {
                 icon: <FiCheck />,
-                text: "Launching our 5555 free mint For Whitelist"
+                text: "Launching our 3333 free mint For Whitelist"
             },
             {
                 icon: <FiCheck />,
@@ -97,7 +97,7 @@ const data = [
             },
             {
                 icon: <FiCheck />,
-                text: "Launching our 5555 free mint For Whitelist"
+                text: "Launching our 3333 free mint For Whitelist"
             }, 
             {
                 icon: <FiCheck />,

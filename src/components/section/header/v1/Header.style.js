@@ -179,6 +179,18 @@ const NavWrapper = styled.nav`
         font-size: 20px;
       }
     }
+
+    .whitelist_btn {
+      height: 50px;
+      min-width: 150px;
+      border: none;
+      margin-left: 20px;
+      background: rgba(29, 168, 199, 0.20);
+
+      svg {
+        font-size: 20px;
+      }
+    }
   }
 
   @media (max-width: 1024px) {
@@ -212,6 +224,20 @@ const NavWrapper = styled.nav`
   @media (max-width: 667px) {
     .bithu_menu_btns {
       .connect_btn {
+        display: none;
+      }
+
+      .menu_btn {
+        svg {
+          font-size: 30px;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 667px) {
+    .bithu_menu_btns {
+      .whitelist_btn {
         display: none;
       }
 

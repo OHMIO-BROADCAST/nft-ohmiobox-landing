@@ -2,22 +2,22 @@
     "info": [
         {
             "text": "Total Items",
-            "number": "5555",
+            "number": "3333",
             "unit": ""
         }, 
         {
             "text": "Total Owners",
-            "number": "896",
+            "number": "2",
             "unit": ""
         }, 
         {
             "text": "Floor Price (ETH)",
-            "number": "0.55",
+            "number": "0.09",
             "unit": ""
         }, 
         {
             "text": "Volume Traded (ETH)",
-            "number": "25.5",
+            "number": "0",
             "unit": "k"
         }
     ]

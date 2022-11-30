@@ -23,7 +23,7 @@ const data = [
   },
   {
     icon: aboutCardIcon1,
-    title: "Gamming NFTs",
+    title: "Content Unlockable",
     text: "Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure.",
   },
   {

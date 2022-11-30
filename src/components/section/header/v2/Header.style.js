@@ -48,6 +48,9 @@ const HeaderStyleWrapper = styled.div`
     .connect_btn {
       border: none;
     }
+    .whitelist_btn {
+      border: none;
+    }
   }
 
   @media (max-width: 480px) {

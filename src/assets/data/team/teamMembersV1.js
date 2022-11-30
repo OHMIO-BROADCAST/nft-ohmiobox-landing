@@ -12,8 +12,8 @@ import avatarThumb8 from "../../images/team/crew_avatar8.png";
 const data = [
   {
     avatar: avatarThumb1,
-    name: "Berneice Tran",
-    designation: "Founder",
+    name: "Ricardo Jimenez",
+    designation: "Founder & CEO",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -31,7 +31,7 @@ const data = [
   },
   {
     avatar: avatarThumb2,
-    name: "Nathan Bean",
+    name: "Juan Pablo",
     designation: "Co-Founder",
     socialLinks: [
       {
@@ -50,8 +50,8 @@ const data = [
   },
   {
     avatar: avatarThumb3,
-    name: "Lynnette Wilkes",
-    designation: "Artist",
+    name: "Mauricio Henao",
+    designation: "Blockchain Developer & CTO",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -69,8 +69,8 @@ const data = [
   },
   {
     avatar: avatarThumb4,
-    name: "Claudia Hicks",
-    designation: "Co-Artist",
+    name: "Joan Estrada",
+    designation: "Blockchain Developer & Mechatronic Engineer",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -88,8 +88,8 @@ const data = [
   },
   {
     avatar: avatarThumb5,
-    name: "Moneo Doa",
-    designation: "UI Designer",
+    name: "Sandra Lizette",
+    designation: "UI Designer && Electronic Engineer",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -107,8 +107,8 @@ const data = [
   },
   {
     avatar: avatarThumb6,
-    name: "Tamsan Doe",
-    designation: "Software Engineer",
+    name: "Hugo Arenas",
+    designation: "3D Architect",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -126,8 +126,8 @@ const data = [
   },
   {
     avatar: avatarThumb7,
-    name: "Sony Jina",
-    designation: "Blockchain Dev",
+    name: "Juan Diego",
+    designation: "NFT Strategist",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,
@@ -145,8 +145,8 @@ const data = [
   },
   {
     avatar: avatarThumb8,
-    name: "Natala Elon",
-    designation: "SEO Engineer",
+    name: "Raul Gonzalez",
+    designation: "NFT Artist",
     socialLinks: [
       {
         icon: <FaLinkedinIn />,

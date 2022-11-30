@@ -1,6 +1,6 @@
 import aboutCardIcon1 from "../../images/icon/aboutus_card_icon1.svg"
 import aboutCardIcon2 from "../../images/icon/aboutus_card_icon2.svg"
-import aboutCardIcon3 from "../../images/icon/aboutus_card_icon3.svg"
+import aboutCardIcon3 from "../../images/icon/aboutus_card_icon5.png"
 
  const data = {
     aboutDescription1: 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur cites of the word in classical literature.',
@@ -8,18 +8,18 @@ import aboutCardIcon3 from "../../images/icon/aboutus_card_icon3.svg"
     aboutInfo: [
         {
             icon: aboutCardIcon1,
-            title: "Gamming NFTs",
-            text: "Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure."
+            title: "Content Unlockable",
+            text: "With OHMIO Box you will be able to interact with our platform and unlock content and rewards. Like a puzzle!"
         },
         {
             icon: aboutCardIcon2,
-            title: "Play to Earn",
-            text: 'Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original.'
+            title: "Trade to Earn NFT",
+            text: 'You can sell and buy your tokens anywhere, Cross-Marketplace features are enabled.'
         },
         {
             icon: aboutCardIcon3,
-            title: "Metaverse Ready",
-            text: 'Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure.'
+            title: "Airdrop Benefits",
+            text: 'This is the first wave of NFTs, this will bring you special access level and extra benefits.'
         }
     ]
 }

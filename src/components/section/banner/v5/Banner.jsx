@@ -44,9 +44,9 @@ const Banner = () => {
               </h2>
               <h3>
                 <span className="count">
-                  <Counter end={5555} duration={5555} />
+                  <Counter end={3333} duration={3333} />
                 </span>{" "}
-                / 5555 Minted
+                / 3333 Minted
               </h3>
               <div className="banner_buttons">
                 <Button sm variant="mint" onClick={() => mintModalHandle()}>

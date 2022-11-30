@@ -112,7 +112,7 @@ const data = [
       },
       {
         icon: <FiMinus />,
-        text: "Launching our 5555 free mint For Whitelist",
+        text: "Launching our 3333 free mint For Whitelist",
       },
       {
         icon: <FiMinus />,

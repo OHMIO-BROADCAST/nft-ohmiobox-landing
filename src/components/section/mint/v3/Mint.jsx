@@ -33,8 +33,8 @@ const Mint = () => {
             </div>
             <div className="col-md-4 text-center">
               <div className="mint_counter">
-                <Counter end={9999} duration={5555} />
-                <span> / 5555</span>
+                <Counter end={9999} duration={3333} />
+                <span> / 3333</span>
               </div>
             </div>
             <div className="col-md-4">

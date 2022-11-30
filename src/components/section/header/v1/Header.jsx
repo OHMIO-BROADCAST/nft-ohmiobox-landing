@@ -1,6 +1,8 @@
 import { useModal } from "../../../../utils/ModalContext";
 import { useEffect, useState } from "react";
 import { FaDiscord, FaWallet } from "react-icons/fa";
+import { GoTasklist } from "react-icons/go";
+
 import { MdNotes } from "react-icons/md";
 import Button from "../../../../common/button";
 import NavWrapper from "./Header.style";
@@ -59,7 +61,7 @@ const Header = () => {
                   <li>
                     <a href="#faq">FAQ</a>
                   </li>
-                  <li className="submenu">
+                  {/* <li className="submenu">
                     <a href="# ">Pages +</a>
                     <div className="sub_menu_sect">
                       <ul className="sub_menu_list">
@@ -112,15 +114,15 @@ const Header = () => {
                         </li>
                       </ul>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
               <div className="bithu_menu_btns">
                 <button className="menu_btn" onClick={() => handleMobileMenu()}>
                   <MdNotes />
                 </button>
-                <Button sm variant="outline" className="join_btn">
-                  <FaDiscord /> Join
+                <Button sm variant="outline" className="whitelist_btn">
+                  <GoTasklist /> WHITELIST
                 </Button>
                 <Button
                   sm
