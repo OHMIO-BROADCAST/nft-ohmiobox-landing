@@ -1,0 +1,17 @@
+.flip {
+    width: 100%;
+    }
+    .flip-content {
+    transition: transform 0.4s;
+    transform-style: preserve-3d;
+    }
+    .flip:hover .flip-content {
+    transform: rotateY(180deg);
+    transition: transform 0.3s;
+    }
+    .flip-front, .flip-back {
+    backface-visibility: hidden;  
+    }
+    .flip-back {
+    transform: rotateY(180deg);
+    }

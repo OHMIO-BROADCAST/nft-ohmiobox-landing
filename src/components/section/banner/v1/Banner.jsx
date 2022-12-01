@@ -8,6 +8,9 @@ import mintLiveDownArrow from "../../../../assets/images/nft/mint_live_down_arro
 import mintLiveText from "../../../../assets/images/nft/mint_live_text.png";
 import homeImageBG from "../../../../assets/images/nft/home_img_bg.png";
 import { useNavigate } from "react-router-dom";
+import Demo1 from "../../../animations/Demo1";
+import { Test } from "../../../animations/Test";
+//import "../../../animations/Blob.js";
 
 const Banner = () => {
   const { mintModalHandle } = useModal();
@@ -61,9 +64,8 @@ const Banner = () => {
                 <div className="bithu_v1_baner_right_img_bg">
                   <img src={homeImageBG} alt="" />
                 </div>
-                <div className="bithu_v1_baner_right_img">
-                  <img src={characterThumb} alt="avater" />
-                </div>
+                <Test />
+                {/* <Blob/> */}
                 
               </div>
             </div>
