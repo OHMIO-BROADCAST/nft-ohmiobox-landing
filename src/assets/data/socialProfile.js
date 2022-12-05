@@ -12,31 +12,23 @@ import mediumIcon from "../images/icon/med.svg";
 const data = [
   {
     thumb: openseaIcon,
-    url: "#",
+    url: "https://opensea.io/collection/ohmiobox",
   },
   {
     icon: <FaTwitter />,
-    url: "#",
+    url: "https://twitter.com/OhmioBroadcast",
   },
   {
     icon: <FaLinkedinIn />,
-    url: "#",
+    url: "https://www.linkedin.com/company/radioadviceus",
   },
   {
     icon: <FaFacebook />,
-    url: "#",
+    url: "https://m.facebook.com/people/Ohmio-Broadcast/",
   },
   {
     icon: <FaInstagram />,
-    url: "#",
-  },
-  {
-    icon: <FaTelegramPlane />,
-    url: "#",
-  },
-  {
-    thumb: mediumIcon,
-    url: "#",
+    url: "https://instagram.com/OhmioBroadcast",
   },
 ];
 
