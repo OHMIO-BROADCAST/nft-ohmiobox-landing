@@ -68,11 +68,12 @@ const WalletModal = () => {
                   </span>
                 </a>
               </div>
-              <div className="modal_bottom_text">
+              {/* <div className="modal_bottom_text">
                 By connecting your wallet, you agree to our
-                <a href="# ">Terms of Service</a>
-                <a href="# ">Privacy Policy</a>
-              </div>
+                <a href="https:/nft.ohmiobroadcast.io/terms" >Terms of Service</a>
+                 <text> and</text>
+                <a href="https:/nft.ohmiobroadcast.io/privacy" >Privacy Policy</a>
+              </div> */}
             </div>
 
             <div className="modal_bottom_shape_wrap">
