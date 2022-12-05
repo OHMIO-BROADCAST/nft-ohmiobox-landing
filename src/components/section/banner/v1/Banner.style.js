@@ -175,6 +175,7 @@ const BannerV1Wrapper = styled.section`
 
   @media only screen and (max-width: 767px) {
     .bithu_v1_baner_left {
+      align-items: center;
       h2 {
         font-size: 40px;
         line-height: 50px;

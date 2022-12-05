@@ -26,7 +26,7 @@ const FooterBottom = () => {
             </ul>
           </div>
           <div className="v2_footer_copiright_text">
-            <p>Copyright ©2022 Bithu, All rights reserved.</p>
+            <p>Copyright ©2022 OHMIO, All rights reserved.</p>
           </div>
           <a href="# " className="bact_to_top_btn">
             <img src={backToTopIcon} alt="bithu nft back to top" />
