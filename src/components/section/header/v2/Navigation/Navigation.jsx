@@ -16,6 +16,8 @@ import home3 from "../../../../../assets/images/nft/index3.png";
 import home4 from "../../../../../assets/images/nft/index4.png";
 import home5 from "../../../../../assets/images/nft/index-5.png";
 
+import HowToMint from "../../../../../components/section/howToMint/v1";
+
 import logo from "../../../../../assets/images/mint-logo.png";
 import openseaIcon from "../../../../../assets/images/icon/opensea.svg";
 import mediumIcon from "../../../../../assets/images/icon/med.svg";
@@ -34,7 +36,7 @@ const Navigation = ({ mobileMenuHandle }) => {
     <NavigationWrapper>
       <div className="container">
         <div className="navigation_header">
-          <img src={logo} alt="logo" style={{width:'52px', height:'auto'}} />
+          <img src={logo} alt="logo" style={{width:'110px', height:'auto'}} />
           <h2 className="menu_title">Menu</h2>
 
           <div className="close_btn">
@@ -47,7 +49,8 @@ const Navigation = ({ mobileMenuHandle }) => {
           <div className="col-md-6">
             <div className="navigation_left">
               <div className="menu_widgets">
-                <h3>MAIN COMPONENTS</h3>
+                <h3>HOW TO MINT</h3>
+                {/* <HowToMint/> */}
                 <div className="home_pages">
                   <a href="/">
                     {" "}
