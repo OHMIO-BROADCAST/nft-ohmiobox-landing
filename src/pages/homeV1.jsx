@@ -38,7 +38,7 @@ const HomeV1 = () => {
       <About />
       <RoadMap />
       <Team />
-      {/* <FAQ /> */}
+      <FAQ />
       <Footer />
     </Layout>
   );
