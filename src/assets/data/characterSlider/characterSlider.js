@@ -6,11 +6,12 @@ import characterThumb5 from "../../images/nft/carousel_avater5.png";
 import characterThumb6 from "../../images/nft/carousel_avater6.png"; */
 
 import characterThumb1 from '../../images/moneda.png'
-import characterThumb2 from '../../images/moneda.png'
+import characterThumb2 from '../../images/bg/box1sil.png'
 import characterThumb3 from '../../images/moneda.png'
-import characterThumb4 from '../../images/moneda.png'
+import characterThumb4 from '../../images/bg/box2sil.png'
 import characterThumb5 from '../../images/moneda.png'
-import characterThumb6 from '../../images/moneda.png'
+import characterThumb6 from '../../images/bg/box3sil.png'
+
 
 const data = [
   {
@@ -30,16 +31,7 @@ const data = [
   },
   {
     thumb: characterThumb6,
-  },
-  {
-    thumb: characterThumb3,
-  },
-  {
-    thumb: characterThumb1,
-  },
-  {
-    thumb: characterThumb5,
-  },
+  }
 ];
 
 export default data;

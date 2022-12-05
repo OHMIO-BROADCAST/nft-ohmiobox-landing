@@ -132,6 +132,7 @@ const HowToMintWrapper = styled.section`
         ul {
           flex-wrap: nowrap;
           flex-direction: column;
+          align-items:
           li {
             width: 100%;
           }
