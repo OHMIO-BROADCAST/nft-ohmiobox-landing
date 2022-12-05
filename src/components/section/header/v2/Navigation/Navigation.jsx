@@ -4,6 +4,7 @@ import {
   FaInstagram,
   FaTelegramPlane,
   FaFacebook,
+  FaTwitter,
 } from "react-icons/fa";
 import { useModal } from "../../../../../utils/ModalContext";
 
@@ -96,42 +97,37 @@ const Navigation = ({ mobileMenuHandle }) => {
                 <h3>JOIN THE FUTURE</h3>
 
                 <div className="social_links">
-                  <a href="#">
+                  <a href="https://opensea.io/collection/ohmiobox">
                     <img src={openseaIcon} alt="icon" />
                     <span className="hover_shape">
                       <img src={hoverShape} alt="shape" />
                     </span>
                   </a>
-                  <a href="#">
+                  <a href="https://twitter.com/OhmioBroadcast">
+                    <FaTwitter />
+                    <span className="hover_shape">
+                      <img src={hoverShape} alt="shape" />
+                    </span>
+                  </a>
+                  <a href="https://www.linkedin.com/company/radioadviceus">
                     <FaLinkedinIn />
                     <span className="hover_shape">
                       <img src={hoverShape} alt="shape" />
                     </span>
                   </a>
-                  <a href="#">
+                  <a href="https://instagram.com/OhmioBroadcast">
                     <FaInstagram />
                     <span className="hover_shape">
                       <img src={hoverShape} alt="shape" />
                     </span>
                   </a>
-                  <a href="#">
-                    <FaTelegramPlane />
-                    <span className="hover_shape">
-                      <img src={hoverShape} alt="shape" />
-                    </span>
-                  </a>
-                  <a href="#">
+                  <a href="https://m.facebook.com/people/Ohmio-Broadcast/">
                     <FaFacebook />
                     <span className="hover_shape">
                       <img src={hoverShape} alt="shape" />
                     </span>
                   </a>
-                  <a href="#">
-                    <img src={mediumIcon} alt="icon" />
-                    <span className="hover_shape">
-                      <img src={hoverShape} alt="shape" />
-                    </span>
-                  </a>
+                  
                 </div>
               </div>
 
